@@ -1,8 +1,8 @@
-## 반갑습니다!! 👋
+## 👋반갑습니다👋
 
 - 💻 열심히 공부하고 있는 주니어 웹 프론트엔드 개발자입니다.
 
-## 기술스택 🛠️
+## 🛠️ 기술스택 🛠️
 <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=for-the-badge&logo=Javascript&logoColor=ECD53F" />
 <!--
 **o2jsg/o2jsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
