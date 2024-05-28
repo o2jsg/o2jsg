@@ -4,6 +4,7 @@
 
 ## 🛠️ 기술스택 🛠️
 <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=for-the-badge&logo=Javascript&logoColor=ECD53F" />
+<img src="https://img.shields.io/badge/HTML-20232a.svg?style=for-the-badge&logo=HTML&logoColor=#000C1F" />
 <!--
 **o2jsg/o2jsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
